@@ -1,0 +1,79 @@
+# Quasar Media Player
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+## Description
+
+Quasar Media Player is a Rust-based media player with a library import feature. It utilizes the libcosmic toolkit.
+
+## Features
+
+- Import and manage media library
+- Play various media formats
+- Pause, resume, and stop playback
+- Seek to specific time in media
+- Volume control
+
+## Installation
+
+1. Make sure you have Rust installed. If not, you can install it from the official Rust website: [https://www.rust-lang.org/](https://www.rust-lang.org/)
+
+2. Clone the repository:
+
+    ```shell
+    git clone https://github.com/your-username/media-player.git
+    ```
+
+3. Change into the project directory:
+
+    ```shell
+    cd quasar-media-player
+    ```
+
+4. Build the project:
+
+    ```shell
+    cargo build --release
+    ```
+
+5. Run the media player:
+
+    ```shell
+    cargo run --release
+    ```
+
+## Usage
+
+- Importing media library:
+
+  ```rust
+  // TODO: Add code snippet for importing media library
+  ```
+
+- Playing media:
+
+  ```rust
+  // TODO: Add code snippet for playing media
+  ```
+
+- Pausing and resuming playback:
+
+  ```rust
+  // TODO: Add code snippet for pausing and resuming playback
+  ```
+
+- Seeking to specific time:
+
+  ```rust
+  // TODO: Add code snippet for seeking to specific time
+  ```
+
+- Volume control:
+
+  ```rust
+  // TODO: Add code snippet for volume control
+  ```
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.

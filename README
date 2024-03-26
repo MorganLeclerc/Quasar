@@ -21,7 +21,7 @@ Quasar Media Player is a Rust-based media player with a library import feature. 
 2. Clone the repository:
 
     ```shell
-    git clone https://github.com/your-username/media-player.git
+    git clone https://github.com/MorganLeclerc/Quasar.git
     ```
 
 3. Change into the project directory:
